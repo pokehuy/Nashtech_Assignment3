@@ -12,7 +12,6 @@ namespace Assignment3
         }
     }
     class Program{
-        public delegate void ClockApp();
         static void Main(String[] args)
         {
             var sw = new Stopwatch();
